@@ -1,4 +1,4 @@
-# uniquestring
+# uniquestring [![npm version](https://badge.fury.io/js/uniquestring.svg)](https://badge.fury.io/js/uniquestring)
 Simple function which generates pseudo-random string based on current timestamp and ``Math.random`` call.
 
 ```js
