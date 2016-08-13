@@ -1,0 +1,19 @@
+{
+  "name": "uniquestring",
+  "version": "0.0.0",
+  "description": "Simple function which generates pseudo-random string based on current timestamp and Math.random",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finom/uniquestring.git"
+  },
+  "author": "Andrey Gubanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finom/uniquestring/issues"
+  },
+  "homepage": "https://github.com/finom/uniquestring#readme"
+}
