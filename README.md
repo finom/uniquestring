@@ -4,7 +4,8 @@ Super simple function which generates pseudo-random string based on current time
 ```js
 import uniqueString from 'uniquestring';
 
-const unique = uniqueString(); // returns something like 1bl73a23duqt
+const unique = uniqueString(); // returns something similar to 1bl73a23duqt
+const uniquePrefixed = uniqueString('foo_'); // returns something similar to foo_1bl73a23duqt
 ```
 
 ### Installing
